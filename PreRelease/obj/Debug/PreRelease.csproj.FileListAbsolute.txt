@@ -1,0 +1,6 @@
+c:\users\manas\documents\visual studio 2015\Projects\PreRelease\PreRelease\bin\Debug\PreRelease.exe.config
+c:\users\manas\documents\visual studio 2015\Projects\PreRelease\PreRelease\bin\Debug\PreRelease.exe
+c:\users\manas\documents\visual studio 2015\Projects\PreRelease\PreRelease\bin\Debug\PreRelease.pdb
+c:\users\manas\documents\visual studio 2015\Projects\PreRelease\PreRelease\obj\Debug\PreRelease.csprojResolveAssemblyReference.cache
+c:\users\manas\documents\visual studio 2015\Projects\PreRelease\PreRelease\obj\Debug\PreRelease.exe
+c:\users\manas\documents\visual studio 2015\Projects\PreRelease\PreRelease\obj\Debug\PreRelease.pdb
